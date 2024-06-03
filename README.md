@@ -1,3 +1,3 @@
 # DiceRolls
-A mini project made with React
+<b>A mini project made with React<b><br>
 Created with CodeSandbox
